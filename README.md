@@ -43,5 +43,3 @@ This project explores the **Hotel Booking Demand** dataset to uncover insights i
 - **Returning customers**: 3.19%
 
 ---
-
-## 📂 Project Structure  
